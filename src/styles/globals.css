@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+	--background: rgb(255, 255, 255);
+	scroll-behavior: smooth;
+	scrollbar-width: thin;
+	scrollbar-color: black transparent;
+}
+
+@theme inline {
+	--color-background: var(--background);
+	--font-geist: var(--font-geist-sans);
+	--font-segoe: var(--font-segoe-ui);
+	--font-inter: var(--font-inter);
+	--font-rubik: var(--font-rubik);
+}
+
+body {
+	color: black;
+	font-weight: 500;
+	background: var(--background);
+	font-family: var(--font-geist);
+	scroll-behavior: smooth;
+}
+
+.bg-instagram {
+	background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+}

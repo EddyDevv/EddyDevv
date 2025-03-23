@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EddyDevv 🥶
 
-## Getting Started
+**Hi, Welcome to my GitHub profile!**
+<br/>
 
-First, run the development server:
+> **Hi, I'm Eddyer, software developer focused on attractive applications, currently 16 years old.** ♥️
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+>> neofetch
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img align="left" src="https://japi.rest/discord/v1/user/346752632729239553/avatar?size=4096" width="189"/>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```python
+  Name     : Eddyer Morales
+  Activity : Private and Public repositories
+  Skillset : TypeScript, JavaScript, C#, CSS, HTML, Astro, Rust,
+  Discord  : 346752632729239553
+  Hobbies  : [
+    Application Development,
+    Websites,
+    Reading
+  ]
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![](https://komarev.com/ghpvc/?username=EddyDevv)
+<br>
+<strong>Skills</strong> 🔗
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div display="flex">
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/js.png" alt="JS"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/ts.png" alt="JS"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/astro.png" alt="Astro"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/html.png" alt="HTML"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/css.png" alt="CSS"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/rust.png" alt="Rust"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/csharp.png" alt="CSharp"/>
+</div>
