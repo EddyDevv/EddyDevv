@@ -26,3 +26,13 @@ body {
 .bg-instagram {
 	background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
 }
+
+.animate-scrolling {
+	animation: scrolling 30s linear infinite forwards;
+}
+
+@keyframes scrolling {
+	100% {
+		transform: translateX(calc(-50% + 2rem));
+	}
+}
