@@ -27,6 +27,9 @@ export const metadata: Metadata = {
 	metadataBase: new URL("https://eddydevv.vercel.app"),
 	title: "EddyDevv - Software developer, learning more and more about technologies every day",
 	description: "Focused on creating web applications that are to your liking and have a positive impact on the public, with best practices and thus grow your website or your community.",
+	icons: {
+		icon: "/favicon.ico",
+	},
 	openGraph: {
 		images: [
 			{
