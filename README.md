@@ -26,10 +26,10 @@
 <strong>Skills</strong> 🔗
 <div display="flex">
   <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/js.png" alt="JS"/>
-  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/js.png" alt="JS"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/ts.png" alt="JS"/>
   <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/astro.png" alt="Astro"/>
   <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/html.png" alt="HTML"/>
   <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/css.png" alt="CSS"/>
   <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/rust.png" alt="Rust"/>
-  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/rust.png" alt="CSharp"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/csharp.png" alt="CSharp"/>
 </div>
