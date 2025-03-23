@@ -23,5 +23,6 @@
 <br>
 <strong>Skills</strong> 🔗
 <div display="flex">
-  <img width="48" height="48" src="https://revenzmind.vercel.app/Assets/Skills/Frontend/js.png" style="border-radius:12px;" alt="javascript"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/js.png" alt="JS"/>
+  <img width="48" height="48" radius="6px" src="https://raw.githubusercontent.com/leonardssh/vscord/refs/heads/main/assets/icons/ts.png" alt="TS"/>
 </div>
