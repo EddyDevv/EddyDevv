@@ -34,7 +34,7 @@ export default function Hero() {
 				)}
 			>
 				<div className="absolute inset-0 z-1 bg-black/5 animate-pulse"></div>
-				<Image src={"/me.jpg"} width={1080} height={1300} alt="EddyDevv - Photo of me" className="size-full object-cover z-5" />
+				<Image src={"/me.jpg"} loading="eager" width={1080} height={1300} alt="EddyDevv - Photo of me" className="size-full object-cover z-5" />
 			</figure>
 		</div>
 	);

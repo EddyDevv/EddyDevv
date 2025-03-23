@@ -32,7 +32,7 @@ export default function Header() {
 	return (
 		<header className="flex justify-between items-center gap-1 px-1 w-full pt-6 pb-1.5 h-[4.625rem]">
 			<div className="flex items-center justify-center gap-2 h-full">
-				<Image src={"/favicon.png"} width={128} height={128} alt="EddyDevv" className="size-11 -rotate-6" />
+				<Image src={"/favicon.png"} loading="eager" width={128} height={128} alt="EddyDevv" className="size-11 -rotate-6" />
 			</div>
 			<nav className="flex items-center justify-center gap-2 h-full">
 				{NavLinks.map(link => (
