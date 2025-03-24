@@ -2,6 +2,8 @@
 
 :root {
 	--background: rgb(255, 255, 255);
+	--background-dark: rgb(7, 7, 7);
+
 	scroll-behavior: smooth;
 	scrollbar-width: thin;
 	scrollbar-color: black transparent;
@@ -9,17 +11,21 @@
 
 @theme inline {
 	--color-background: var(--background);
+	--color-background-dark: var(--background-dark);
 	--font-geist: var(--font-geist-sans);
 	--font-segoe: var(--font-segoe-ui);
 	--font-inter: var(--font-inter);
 	--font-rubik: var(--font-rubik);
 }
 
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
 body {
-	color: black;
-	font-weight: 500;
+	@apply bg-background dark:bg-background-dark text-black dark:text-white;
+
 	background: var(--background);
 	font-family: var(--font-geist);
+	font-weight: 500;
 	scroll-behavior: smooth;
 }
 

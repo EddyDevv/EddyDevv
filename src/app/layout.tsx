@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Inter, Rubik } from "next/font/google";
+import { ThemeProvider } from "@/providers/ThemeProvider";
 import localFont from "next/font/local";
 import "@/styles/globals.css";
 
@@ -48,8 +49,10 @@ export default function RootLayout({
 	children: React.ReactNode;
 }>) {
 	return (
-		<html lang="en">
-			<body className={`${geistSans.variable} ${inter.variable} ${segoe.variable} ${rubik.variable}`}>{children}</body>
+		<html lang="en" data-theme={"light"}>
+			<body className={`${geistSans.variable} ${inter.variable} ${segoe.variable} ${rubik.variable}`}>
+				<ThemeProvider>{children}</ThemeProvider>
+			</body>
 		</html>
 	);
 }
