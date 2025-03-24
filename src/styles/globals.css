@@ -9,6 +9,10 @@
 	scrollbar-color: black transparent;
 }
 
+[data-theme="dark"] {
+	scrollbar-color: white transparent;
+}
+
 @theme inline {
 	--color-background: var(--background);
 	--color-background-dark: var(--background-dark);
