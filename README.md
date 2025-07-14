@@ -3,7 +3,7 @@
 **Hi, Welcome to my GitHub profile!**
 <br/>
 
-> **Hi, I'm Eddyer, software developer focused on attractive applications, currently 16 years old.** ♥️
+> **Hi, I'm Eddyer, software developer focused on attractive applications, currently 17 years old.** ♥️
 
 ```bash
 >> neofetch
