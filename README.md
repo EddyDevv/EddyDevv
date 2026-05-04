@@ -9,7 +9,7 @@
 >> neofetch
 ```
 
-<img align="left" src="https://japi.rest/discord/v1/user/346752632729239553/avatar?size=4096" width="189"/>
+<img align="left" src="https://japi.rest/discord/v1/user/346752632729239553/avatar?size=512" width="189"/>
 
 ```python
   Name     : Eddyer Morales
