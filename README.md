@@ -3,13 +3,13 @@
 **Hi, Welcome to my GitHub profile!**
 <br/>
 
-> **Hi, I'm Eddyer, software developer focused on attractive applications, currently 17 years old.** ♥️
+> **Hi, I'm Eddyer, software developer focused on attractive applications, currently 18 years old.** ♥️
 
 ```bash
 >> neofetch
 ```
 
-<img align="left" src="https://japi.rest/discord/v1/user/346752632729239553/avatar?size=512" width="189"/>
+<img align="left" src="https://api.myuser.gg/discord/u/1286544389073534976/avatar" width="189"/>
 
 ```python
   Name     : Eddyer Morales
