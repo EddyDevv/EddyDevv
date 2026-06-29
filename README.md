@@ -9,7 +9,7 @@
 >> neofetch
 ```
 
-<img align="left" src="https://api.myuser.gg/discord/u/1286544389073534976/avatar" width="189"/>
+<img align="left" src="https://api.myuser.gg/discord/u/346752632729239553/avatar" width="189"/>
 
 ```python
   Name     : Eddyer Morales
